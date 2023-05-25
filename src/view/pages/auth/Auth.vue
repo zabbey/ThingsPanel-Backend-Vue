@@ -15,7 +15,7 @@
             </div>
             <div class="col text-right align-self-center">
               <a
-                href="http://thingspanel.io/"
+                href="http://www.bornsales.com/"
                 class="btn btn-sm btn-primary text-uppercase"
                 target="_blank"
                 >help</a
@@ -43,7 +43,7 @@
           <div class="row">
             <div class="col-12 col-md text-center text-md-left align-self-center">
               <p class="footer_copy">
-                {{ $t("LOGIN.TEXT1") }} <a href="http://thingspanel.io/" target="_blank">ThingsPanel</a>
+                {{ $t("LOGIN.TEXT1") }} <a href="http://www.bornsales.com/" target="_blank">本贸科技股份有限公司</a>
               </p>
             </div>
             <div class="col-12 col-md-auto text-center text-md-right">
@@ -51,7 +51,7 @@
                 <li class="nav-item">
                   <a
                     class="nav-link"
-                    href="http://thingspanel.io/"
+                    href="http://www.bornsales.com/"
                     target="_blank"
                     >{{ $t("LOGIN.TEXT2") }}</a
                   >
@@ -59,13 +59,13 @@
                 <li class="nav-item">
                   <a
                     class="nav-link"
-                    href="http://thingspanel.io/"
+                    href="http://www.bornsales.com/"
                     target="_blank"
                     >{{ $t("LOGIN.TEXT3") }}</a
                   >
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="http://thingspanel.io/" target="_blank"
+                  <a class="nav-link" href="http://www.bornsales.com/" target="_blank"
                     >{{ $t("LOGIN.TEXT4") }}</a
                   >
                 </li>
